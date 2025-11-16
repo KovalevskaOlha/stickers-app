@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/stickers-app/static/css/main.359fc43f.css",
+    "main.js": "/stickers-app/static/js/main.13b1dc2d.js",
+    "index.html": "/stickers-app/index.html",
+    "main.359fc43f.css.map": "/stickers-app/static/css/main.359fc43f.css.map",
+    "main.13b1dc2d.js.map": "/stickers-app/static/js/main.13b1dc2d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.359fc43f.css",
+    "static/js/main.13b1dc2d.js"
+  ]
+}
