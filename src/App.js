@@ -19,8 +19,8 @@ class App extends Component {
     selectedSticker: "",
   };
 
-  handleClick = (label) => {
-    this.setState({ selectedSticker: label });
+  handleClick = (sticker) => {
+    this.setState({ selectedSticker: sticker});
   };
 
   render() {

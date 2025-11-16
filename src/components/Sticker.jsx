@@ -26,7 +26,7 @@ class Sticker extends React.Component {
       <StickerWrapper
         src={sticker.img}
         title={sticker.label}
-        onClick={() => handleClick(sticker.label)}
+        onClick={() => handleClick(sticker)}
       />
     );
   }
